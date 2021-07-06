@@ -5,9 +5,13 @@
 - 📫 How to reach me https://forms.gle/u2VNgcCpYaW7avJd6
 
 PHP:2y
+
 Laravel:2y
+
 TF: 3m
+
 js: few
+
 TOEIC L&R: 865
 
 <!---

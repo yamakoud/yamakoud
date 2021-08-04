@@ -8,9 +8,9 @@ PHP:2y
 
 Laravel:2y
 
-TF: 3m
+TensorFlow: 3m
 
-js: few
+js: few months
 
 TOEIC L&R: 865
 

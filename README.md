@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yamakoud
-- 👀 I’m interested in release services different platform. and that reason is I decied to become full-stack engineer.
+- 👀 I’m interested in Javascript and dart.
 - 🌱 I’m currently learning Next.js and Tailwind.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on foreign people.
 - 📫 How to reach me https://forms.gle/u2VNgcCpYaW7avJd6
 
 PHP:2y

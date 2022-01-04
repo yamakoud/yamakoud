@@ -58,11 +58,13 @@ AIを独学したことがあるのが僕だけだったので、チャットボ
 
 ----
 
-2021 後半
+2021 前半 ~ 2021 後半
 
 ・IOSアプリのバックエンド（API、管理画面）開発
 
 バックエンドにLaravel、フロントにiOSを用いたCtoCサービスの開発。
+
+【使用技術】PHP, Laravel, AWS Cognito, Stripe, AWS DynamoDB
 
 【メインの開発業務】
 

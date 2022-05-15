@@ -11,20 +11,21 @@ I mainly use php and laravel.
 
 
 ### Tech
-
-    PHP: 2.5y<br>
+php: 2.5y<br>
 Laravel: 2.5y<br>
- Docker: 1y<br>
-  keras: 3month<br>
+Docker: 1y<br>
+keras: 3month<br>
 
 ### Language
+ 
 TOEIC L&R: 865<br>
-    HSK 4: 247<br>
+HSK 4: 247<br>
 
 ### University
-      NAME: Fukuoka-University<br>
+ 
+NAME: Fukuoka-University<br>
 DEPARTMENT: Commerce<br>
-       GPA: around 3.7<br>
+GPA: around 3.7<br>
 
 <!---
 yamakoud/yamakoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

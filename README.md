@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yamakoud
-- 👀 I’m interested in Javascript and dart.
+- 👀 I’m interested in many things. I'm a curious person.
 - 🌱 I’m currently learning Next.js and Tailwind.
 - 💞️ I’m looking to collaborate on foreign people.
-- 📫 How to reach me https://forms.gle/u2VNgcCpYaW7avJd6
+- 📫 How to reach me kyamad9<!--asdfjkl;jsa;l@dasd.com.comcom.comkf-->@<!--asdfjkl;jsa;l@dasd.com.comcom.comkf-->gmail<!--asdfjkl;jsa;l@dasd.com.comcom.comkf-->.com
 
 PHP:2y
 Laravel:2y

@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things. I'm a curious person.
 - 🌱 I’m currently learning Next.js and Tailwind.
 - 💞️ I’m looking to collaborate on foreign people.
-- 📫 How to reach me kyamad9<!--asdfjkl;jsa;l@dasd.com.comcom.comkf-->@<!--asdfjkl;jsa;l@dasd.com.comcom.comkf-->gmail<!--asdfjkl;jsa;l@dasd.com.comcom.comkf-->.com
+- 📫 How to reach me kyamad9@gmail.com
 
 PHP:2y
 Laravel:2y

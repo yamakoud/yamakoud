@@ -20,8 +20,7 @@ https://github.com/yamakoud/yumekawa-fackyu
 ### Tech
 php: 2.5y<br>
 Laravel: 2.5y<br>
-Docker: 1y<br>
-keras: 3month<br>
+Docker: beginner<br>
 
 ### Language
  

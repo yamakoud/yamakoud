@@ -9,9 +9,6 @@ I'm backend engineer in Japan.
 
 I mainly use php and laravel.
 
-Repo:
-https://github.com/yamakoud/yumekawa-fackyu
-
 
 ### Tech
 php: 2.5y<br>

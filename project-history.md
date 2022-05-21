@@ -4,17 +4,15 @@
 
 **2021 前半 ~ 2021 後半**
 
-・IOSアプリのバックエンド（API、管理画面）開発
-
+・IOSアプリのバックエンド（API、管理画面）開発<br>
 バックエンドにLaravel、フロントにiOSを用いたCtoCサービスの開発。
 
 【使用技術】PHP, Laravel, AWS Cognito, Stripe, AWS DynamoDB
 
-【メインの開発業務】
-
+【メインの開発業務】<br>
 今回のプロジェクトでは主に認証系（Cognito・Lambda）・決済系（Stripe）・Dynamoを担当。<br>
 認証では、Cognito + LambdaとLaravelのミドルウェアを統合して認証機能を実装。<br>
-決済については、StripeのCheckoutの機能を用いての決済フローを開発。<br?
+決済については、StripeのCheckoutの機能を用いての決済フローを開発。<br>
 Dynamoは簡単なチャットデータの保存。<br>
 
 【感想】<br>
@@ -31,19 +29,23 @@ CognitoもStripeも社内でやったことある人がいなかったので大�
 
 【使用技術】Laravel, line, Dialogflow
 
-メインの業務はDialogflow（チャットボット）の設計・開発、Laravelを用いたバックエンドの実装。
-
-またDialogflowでのチャットボットをメインで担当。
+【メインの開発業務】<br>
+Dialogflow（チャットボット）の設計・開発、Laravelを用いたバックエンドの実装。<br>
+またDialogflowでのチャットボットをメインで担当。<br>
 
 ----
 
 2020 前半
 
-・ロボホンによるQ & Aシステム
+・ロボホンによるQ&Aシステム<br>
+Webページから質問を送ると、ロボホン（ロボット型のアンドロイド）がDialogflow（チャットボット）を介して質問を返す。
 
 【使用技術】Dialogflow, PHP
 
-Webページから質問を送ると、ロボホン（ロボット型のアンドロイド）がDialogflow（チャットボット）を介して質問を返す。
+【メインの開発業務】<br>
+Dialogflowの会話データ・会話フローの作成。<br>
+DialogflowとPHPとの連携。<br>
+
 
 【感想】<br>
 チャットボットについて学習した😊<br>

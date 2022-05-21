@@ -34,11 +34,9 @@ CognitoもStripeも社内でやったことある人がいなかったので大�
 
 【使用技術】Laravel, line, Dialogflow
 
-メインの業務はDialogflow（チャットボット）の設計・開発を担当。
-サブでLaravel。
+メインの業務はDialogflow（チャットボット）の設計・開発、Laravelを用いたバックエンドの実装。
 
 またDialogflowでのチャットボットをメインで担当。
-
 
 ----
 

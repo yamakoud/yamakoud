@@ -12,13 +12,10 @@
 
 【メインの開発業務】
 
-今回のプロジェクトでは主に認証系（Cognito・Lambda）・決済系（Stripe）・Dynamoを担当。
-
-認証では、Cognito + LambdaとLaravelのミドルウェアを統合して認証機能を実装。
-
-決済については、StripeのCheckoutの機能を用いての決済フローを開発。
-
-Dynamoは簡単なチャットデータの保存。
+今回のプロジェクトでは主に認証系（Cognito・Lambda）・決済系（Stripe）・Dynamoを担当。<br>
+認証では、Cognito + LambdaとLaravelのミドルウェアを統合して認証機能を実装。<br>
+決済については、StripeのCheckoutの機能を用いての決済フローを開発。<br?
+Dynamoは簡単なチャットデータの保存。<br>
 
 【感想】<br>
 CognitoもStripeも社内でやったことある人がいなかったので大変だった😇<br>

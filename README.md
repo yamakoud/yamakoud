@@ -17,11 +17,6 @@ https://www.youtube.com/watch?v=YUFmZD_cX_8&t=21s&ab_channel=CodingChance
 https://github.com/yamakoud/yumekawa-fackyu
 
 
-## Works in Progress
-
-Web site for Rental-Boyfriend (Is it in overseas?)</br> 
-https://renkare-fukuoka.vercel.app/
-
 ## Experiences & Certifications
 
 ### Tech

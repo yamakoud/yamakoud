@@ -26,8 +26,8 @@ https://renkare-fukuoka.vercel.app/
 
 ### Tech
 
-php: 2.5y<br>
-Laravel: 2.5y<br>
+php: 3y<br>
+Laravel: 3y<br>
 Docker: beginner<br>
 
 ### Language

@@ -29,6 +29,7 @@ https://renkare-fukuoka.vercel.app/
 php: 3y<br>
 Laravel: 3y<br>
 Docker: beginner<br>
+AWS: beginner<br>
 
 ### Language
  

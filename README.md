@@ -2,7 +2,7 @@
 - 👀 I’m interested in knowing many things. I'm a curious person.
 - 🌱 I’m currently learning English.
 - 💞️ I’m looking to collaborate on foreign people.
-- 📫 How to reach me kyamad9|a(t|gmail.com
+- 📫 How to reach me kyamad9|a(t]gmail.com
 
 Hi!
 I'm backend engineer in Japan. I mainly use php and laravel.

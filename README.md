@@ -31,12 +31,6 @@ AWS: beginner<br>
 TOEIC L&R: 865<br>
 HSK 4: 247<br>
 
-### University
- 
-NAME: Fukuoka-University<br>
-DEPARTMENT: Commerce<br>
-GPA: around 3.7<br>
-
 <!---
 yamakoud/yamakoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

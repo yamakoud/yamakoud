@@ -7,8 +7,8 @@ I'm backend engineer in Japan.
 
 個人開発
 - ぱんぶいぶ
-　- https://panbuibu.com/
-　- VR 界隈の技術共有のためのサイト
+  - https://panbuibu.com/
+  - VR 界隈の技術共有のためのサイト
 
 コントリビュート
 - [Shiika-lang](https://github.com/shiika-lang/shiika)

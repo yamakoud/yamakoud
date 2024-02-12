@@ -20,4 +20,5 @@ Qiita
 - [ゴリゴリの文系がＡＩをほぼ独学した半年 #Python - Qiita](https://qiita.com/kyamad/items/f9988fe89c7665e933b4)
 
 TOEIC 865
+
 日商簿記 2級

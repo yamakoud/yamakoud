@@ -5,6 +5,10 @@
 Hi!
 I'm backend engineer in Japan.
 
+経験
+- Rails 1 - 2 年
+- Laravel 2年と少し
+
 個人開発
 - ぱんぶいぶ
   - https://panbuibu.com/

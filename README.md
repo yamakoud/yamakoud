@@ -9,6 +9,8 @@ I'm backend engineer in Japan.
 - Rails 1 - 2 年
 - Laravel 2年と少し
 
+
+
 個人開発
 - ぱんぶいぶ
   - https://panbuibu.com/
@@ -22,6 +24,9 @@ OSS コントリビュート
 
 Qiita
 - [ゴリゴリの文系がＡＩをほぼ独学した半年 #Python - Qiita](https://qiita.com/kyamad/items/f9988fe89c7665e933b4)
+
+競プロ初心者
+- paiza S
 
 TOEIC 865
 
